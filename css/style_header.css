@@ -48,6 +48,7 @@ nav {
     display: flex;
     justify-content: space-around;
     width: 60%;
+
 }
 
 .nav-links a {
@@ -59,6 +60,7 @@ nav {
 
 .nav-links a:hover {
     color: #000000;
+    
 }
 
 .burger {
