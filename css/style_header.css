@@ -6,7 +6,7 @@
 
 body {
     width: 100%;
-    background-color: #e6e6e6;
+    background-color: #eeeeeef1;
     font-family:'Times New Roman', Times, serif';
 }
 
@@ -60,7 +60,7 @@ nav {
 
 .nav-links a:hover {
     color: #000000;
-    
+    s
 }
 
 .burger {

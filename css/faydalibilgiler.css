@@ -38,6 +38,7 @@ body{text-decoration: none;}
 }
 @media only screen and (max-width:500px)
 {
+    .sayfa {width:100%; margin-left: 0%;}
     .maddeyazi{font-size:15px;}
     .aciklama {font-size:13px;}
 }

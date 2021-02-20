@@ -3,6 +3,7 @@ html, body {
     overflow-x: hidden;
 }
 .sayfa {width:1000px; height: auto; margin:auto; margin-top:20px;}
+.sayfa a:visited{color:black;}
 .icerika {width:700px; height: auto; background-color:#ffffff;  float: left;  }
 .icerikb {width: 280px; height: auto;  margin-left: 20px; float: left;}
 .anabaslik {width:90%; height: auto; padding-bottom:3px; background-color: #17528aec; margin-left: auto; margin-right: auto; color: #ffffff; font-size: 30px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
@@ -17,6 +18,7 @@ html, body {
 .buyukreklam {width:680px; height: 300px; margin-right: auto; margin-left: auto; margin-top:20px; margin-bottom: 20px;}
 .buyukreklam img {width: 100%; height: 100%;}
 .byazi {font-size: 18px; height: auto; width: 100%; margin-top: 10px; text-align: center; color: #17528aec; background-color: #ffffff;}
+.sagicerikresim:hover{transform: scale(1.1); transition: 1s;}
 .sagicerikresim {width:280px; height:150px; margin-top: 10px; margin-left: auto; margin-right: auto;}
 .sagicerikresim img {width:100%; height: 100%;}
 .sagicerikyazi {font-size:22px; text-align: center; height: auto; width: 95%; background-color: #ffffff;  margin-right: auto; margin-left: auto; width: 100%; margin-top: 5px; }
