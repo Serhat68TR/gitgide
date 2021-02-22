@@ -109,6 +109,11 @@ hr{width:60%; margin-left: auto; margin-right: auto;}
    .ortaiceriktablomaddeleri2 img {margin-left:10%;}
    .ortaiceriktablomaddeleri3 img {margin-left:10%;}
    .ortaiceriktablomaddeleri4 img {margin-left:10%;}
-  
-   
+}
+@media only screen and (max-width:350px)
+{
+   .ortaiceriktablomaddeleri1 img {margin-left:7%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:7%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:7%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:7%;}
 }
