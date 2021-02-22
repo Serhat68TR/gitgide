@@ -72,27 +72,27 @@ hr{width:60%; margin-left: auto; margin-right: auto;}
  }
 @media only screen and (max-width:680px)
 {
-   .ortaiceriktablomaddeleri1 img {margin-left:26%;}
-   .ortaiceriktablomaddeleri2 img {margin-left:26%;}
-   .ortaiceriktablomaddeleri3 img {margin-left:26%;}
-   .ortaiceriktablomaddeleri4 img {margin-left:26%;}
+   .ortaiceriktablomaddeleri1 img {margin-left:24%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:24%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:24%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:24%;}
 
    .ortaicerikyazi {font-size: 25px;}
 }
 @media only screen and (max-width:550px)
 {
-   .ortaiceriktablomaddeleri1 img {margin-left:20%;}
-   .ortaiceriktablomaddeleri2 img {margin-left:20%;}
-   .ortaiceriktablomaddeleri3 img {margin-left:20%;}
-   .ortaiceriktablomaddeleri4 img {margin-left:20%;}
-
-}
-@media only screen and (max-width:500px)
-{  .ortaicerikyazi {font-size: 20px;}
    .ortaiceriktablomaddeleri1 img {margin-left:18%;}
    .ortaiceriktablomaddeleri2 img {margin-left:18%;}
    .ortaiceriktablomaddeleri3 img {margin-left:18%;}
    .ortaiceriktablomaddeleri4 img {margin-left:18%;}
+
+}
+@media only screen and (max-width:500px)
+{  .ortaicerikyazi {font-size: 20px;}
+   .ortaiceriktablomaddeleri1 img {margin-left:15%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:15%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:15%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:15%;}
 
 }
 @media only screen and (max-width:450px)
@@ -101,24 +101,24 @@ hr{width:60%; margin-left: auto; margin-right: auto;}
    .ortaiceriktablomaddeleriyazi2{font-size:20px;}
    .ortaiceriktablomaddeleriyazi3{font-size:20px;}
    .ortaiceriktablomaddeleriyazi4{font-size:20px;}
-   .ortaiceriktablomaddeleri1 img {margin-left:15%;}
-   .ortaiceriktablomaddeleri2 img {margin-left:15%;}
-   .ortaiceriktablomaddeleri3 img {margin-left:15%;}
-   .ortaiceriktablomaddeleri4 img {margin-left:15%;}
+   .ortaiceriktablomaddeleri1 img {margin-left:13%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:13%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:13%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:13%;}
 
  
 }
 @media only screen and (max-width:400px)
 {
-   .ortaiceriktablomaddeleri1 img {margin-left:10%;}
-   .ortaiceriktablomaddeleri2 img {margin-left:10%;}
-   .ortaiceriktablomaddeleri3 img {margin-left:10%;}
-   .ortaiceriktablomaddeleri4 img {margin-left:10%;}
+   .ortaiceriktablomaddeleri1 img {margin-left:8%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:8%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:8%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:8%;}
 }
 @media only screen and (max-width:350px)
 { .ortaicerikyazi {font-size: 18px;}
-   .ortaiceriktablomaddeleri1 img {margin-left:7%;}
-   .ortaiceriktablomaddeleri2 img {margin-left:7%;}
-   .ortaiceriktablomaddeleri3 img {margin-left:7%;}
-   .ortaiceriktablomaddeleri4 img {margin-left:7%;}
+   .ortaiceriktablomaddeleri1 img {margin-left:5%;}
+   .ortaiceriktablomaddeleri2 img {margin-left:5%;}
+   .ortaiceriktablomaddeleri3 img {margin-left:5%;}
+   .ortaiceriktablomaddeleri4 img {margin-left:5%;}
 }
