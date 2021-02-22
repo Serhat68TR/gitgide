@@ -9,7 +9,7 @@ hr{width:100%; }
 .sayfa a:visited{color:black;}
 .icerika {width:840px; height: auto; background-color:#ffffff;  float: left;  }
 .icerikb {width: 350px; height: auto;  margin-left: 10px; float: left; margin-top:87px; }
-.anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto; color: #1e67bbda; font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
+.anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto; color: #1863b9da; font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
 .populeryazilar{width:100%; height: auto; text-align: center; font-size: 17px; float: left;}
 .anaresim {width:98%; height: 500px; margin:auto; margin-top:20px;}
 .anaresim img {width:100%; height:100%;}
@@ -38,7 +38,7 @@ hr{width:100%; }
     .sayfa a:visited{color:black;}
     .icerika {width:100%; height: auto; background-color:#ffffff;  float: left;  }
     .icerikb {width: 100%; height: auto;  margin-left: 10px; float: left; margin-top:87px; }
-    .anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto; color: #1e67bbda; font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
+    .anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto;  font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
     .populeryazilar{width:100%; height: auto; text-align: center; font-size: 17px; float: left;}
     .anaresim {width:98%; height: 30%; margin:auto; margin-top:20px;}
     .anaresim img {width:100%; height:100%;}
@@ -62,13 +62,13 @@ hr{width:100%; }
 @media only screen and (min-width:320px) and (max-width:767px)
 {
     hr{width:100%; }
-    .sagreklam{width:98%; height: 250px; float: left; margin-bottom: 50px;}
+    .sagreklam{width:98%; height: 150px; float: left; margin-bottom: 50px;}
     .sagreklam img {width:100%; height: 100%;}
     .sayfa {width:100%; height: auto; margin:auto; margin-top:0px;}
     .sayfa a:visited{color:black;}
     .icerika {width:90%; height: auto; background-color:#ffffff;  float: left; margin-left:5%;}
     .icerikb {width: 100%; height: auto;   float: left; margin-top:87px; }
-    .anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto; color: #1e67bbda; font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
+    .anabaslik {width:100%; height: auto; padding-bottom:3px; margin-left: auto; margin-right: auto; font-size: 32px; border-radius: 8px; margin-top:20px; text-align: center; padding-top:7px; font-family: Arial, Helvetica, sans-serif;}
     .populeryazilar{width:100%; height: auto; text-align: center; font-size: 17px; float: left;}
     .anaresim {width:98%; height: 10%; margin:auto; margin-top:20px;}
     .anaresim img {width:100%; height:100%;}
