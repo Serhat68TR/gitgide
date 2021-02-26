@@ -1,6 +1,1 @@
-window.onload = function() {
-    if(!window.location.hash) {
-        window.location = window.location + '#';
-        window.location.reload();
-    }
-}
+window.onload = function () {window.location.reload()}
