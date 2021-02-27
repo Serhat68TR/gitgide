@@ -10,6 +10,6 @@ function reloadPage() {
     var plusTenSec = currentDocumentTimestamp + tenSec;
     if (now > plusTenSec) {
     location.reload();
-    } else {}
+    } else {reloadPage();}
     }
-    reloadPage();
+    
