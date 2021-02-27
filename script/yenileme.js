@@ -5,11 +5,11 @@ function reloadPage() {
     // Current Time //
     var now = Date.now();
     // Ten Seconds //
-    var tenSec = 10 * 1000;
+    var tenSec = 1 * 1000;
     // Plus Ten Seconds //
     var plusTenSec = currentDocumentTimestamp + tenSec;
     if (now > plusTenSec) {
     location.reload();
-    } else {reloadPage();}
+    } else {}
     }
-    
+    reloadPage();
